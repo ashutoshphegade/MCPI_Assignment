@@ -1,0 +1,7 @@
+../Src/rtc.c:11:10:Bcd2bin	1
+../Src/rtc.c:20:10:bin2Bcd	1
+../Src/rtc.c:28:6:RTC_Init	3
+../Src/rtc.c:62:6:RTC_SetDate	1
+../Src/rtc.c:74:6:RTC_SetTime	1
+../Src/rtc.c:85:6:RTC_GetDate	1
+../Src/rtc.c:98:6:RTC_GetTime	1
