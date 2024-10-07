@@ -1,0 +1,2 @@
+../Src/adc.c:11:6:ADC_Init	4	static
+../Src/adc.c:30:10:ADC_GetValue	16	static
